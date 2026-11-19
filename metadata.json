@@ -1,0 +1,6 @@
+{
+  "name": "TERRAVOX — Living Voxel World & Village Architect",
+  "description": "3D Minecraft-inspired voxel sandbox with custom procedural biomes, physics-based modular structural stability, AI-driven NPCs and wildlife, procedural house and village generation, and Unity C# architecture export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
